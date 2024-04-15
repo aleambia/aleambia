@@ -3,11 +3,11 @@
 
 - 🎓 I recently finished a Master's degree in Data Science.
 
-- ✉️ How to reach me **aleambia@gmail.com**
+- ✉️ How to reach me: **aleambia@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandra-amb%C3%ADa-garrido-a1477125/](https://www.linkedin.com/in/alejandra-amb%C3%ADa-garrido-a1477125/)
 
-- ⭐ Fun fact **I love movies**
+- ⭐ Fun fact: **I love movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
