@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alejandra Ambia 👋</h1>
+<h1 align="center">Hi there, I'm Alejandra Ambia 👋</h1>
 <h3 align="center">Communication expert evolved into Data Scientist</h3>
 
 - 🎓 I recently finished a Master's degree in Data Science.
