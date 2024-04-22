@@ -5,7 +5,7 @@
 
 - ✉️ How to reach me: **aleambia@gmail.com**
 
-- 📄 Know about my experiences: [(https://www.linkedin.com/in/alejandra-amb%C3%ADa-garrido/)](https://www.linkedin.com/in/alejandra-amb%C3%ADa-garrido-)
+- 📄 Know about my experiences: https://www.linkedin.com/in/alejandra-amb%C3%ADa-garrido/
 
 - ⭐ Fun fact: **I love movies**
 
